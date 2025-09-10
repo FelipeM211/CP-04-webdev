@@ -1,8 +1,8 @@
 # Contador de Votos
 
 ## Participantes: 
-Felipe Balbino Murad - RM562347.
-Lucas Mesquita Massoni - RM561686.
+Felipe Balbino Murad - RM562347
+Lucas Mesquita Massoni - RM561686
 
 ## Objetivo
 Criar uma aplicação simples para contar votos em diferentes opções, usando React, Vite e TailwindCSS.  
