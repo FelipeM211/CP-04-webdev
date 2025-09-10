@@ -1,7 +1,7 @@
 # Contador de Votos
 
 ## Participantes: 
-Felipe Balbino Murad - RM562347
+Felipe Balbino Murad - RM562347, 
 Lucas Mesquita Massoni - RM561686
 
 ## Objetivo
